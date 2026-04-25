@@ -1,39 +1,39 @@
-**Hospital-admission-analysis-excel**
+**Hospital Admission Analysis Dashboard (Excel)**
 
 **📊 Project Overview**
 
-This project analyzes sales performance data to track revenue, profit, customer trends, and product performance. The goal is to provide insights that support business growth and strategic decision-making.
+This project focuses on analyzing hospital admission data to uncover patterns in patient distribution, waiting times, and diagnosis trends. The goal is to support better decision-making and improve operational efficiency.
 
-🛠 Tools Used**
-Power BI
+**🛠 Tools Used**
+Microsoft Excel
 
 **📁 Dataset Features**
-Brand
-Revenue
-Profit
-Customer Data
-Product Color
-Income Level
+Patient Department
+Diagnosis
+Gender
+Waiting Time
 
 **🔍 Analysis Performed**
-Profit by brand
-Revenue by month
-Revenue by product color
-Profit by income level
-Customer trends by month
+Patients distribution by department
+Average waiting time by department
+Average waiting time by diagnosis
+Diagnosis distribution analysis
 
-**📈 Key Performance Indicators (KPIs)**
-Total Revenue: $3M
-Total Profit: $932K
-Cost of Goods Sold: $2M
-Total Customers: 250
-
-**📊 Dashboard Features**
-Interactive slicers (Region, Income Level)
-Dynamic visualizations for trend analysis
-KPI cards for quick performance tracking
+**📈 Dashboard Features**
+Interactive slicers (Department, Gender)
+Dynamic charts for quick insights
+Clean and structured dashboard layout
 
 **📌 Key Insights**
-Revenue trends fluctuate across different months
-Certain brands contribute more to overall profit
-Customer purchasing behavior varies by income level
+ The Outpatient department handles the highest number of patients, making it the busiest unit.
+
+Hypertension is the most common diagnosis, indicating a high prevalence of chronic conditions.
+
+Pediatrics has the highest average waiting time, suggesting possible delays or staffing issues.
+
+Patients diagnosed with Infection 
+experience the highest average waiting time, indicating possible delays in treatment for this condition.
+
+olume
+Waiting time varies significantly across departments
+Specific diagnoses are more common than others
